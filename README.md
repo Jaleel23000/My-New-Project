@@ -1,6 +1,6 @@
 # Project Name: Automated Quality Control System for Manufacturing Processes
 
-# Background
+## Summary
 The project aims to address the common issue of quality control in manufacturing processes. Quality control is a critical aspect of any production line, ensuring that products meet specific standards and adhere to quality benchmarks. In many industries, manual quality control processes are time-consuming, error-prone, and can lead to inconsistencies. This project is motivated by the need to streamline and enhance the quality control process, ultimately improving the overall efficiency and reliability of manufacturing operations.
 
 # Data and AI Techniques
